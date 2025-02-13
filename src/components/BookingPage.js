@@ -1,6 +1,6 @@
 const BookingPage = () =>{
 
-    return <div>BookPage Component</div>
+    return <>BookPage Component</>
 }
 
 export default BookingPage
